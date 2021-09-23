@@ -1,4 +1,6 @@
 <?php
+// Pertemuan 2
+// Video 2
 class Coba
 {
 }
