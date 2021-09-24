@@ -62,8 +62,8 @@ class Produk
     }
   }
 
-$produk1 = new Produk("Naruto", "Nasashi Kishimoto", "Shonen Jump", 30000, 100, 0, "Komik");
-$produk2 = new Produk("Uncharted", "Neil Druckman", "Sony Computer", 250000, 0, 50, "Game");
+$produk1 = new Produk("Naruto", "Nasashi Kishimoto", "Shonen Jump", 30000, 100), 0;
+$produk2 = new Produk("Uncharted", "Neil Druckman", "Sony Computer", 250000, 0, 50);
 
 echo $produk1->getInfoProduk();
 echo "<br>";
