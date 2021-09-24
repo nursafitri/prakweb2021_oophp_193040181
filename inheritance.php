@@ -1,6 +1,6 @@
 <?php
 // Pertemuan 3
-// Video 6
+// Video 7
 // jualan produk
 // komik
 // game
