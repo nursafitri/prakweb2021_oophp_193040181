@@ -5,8 +5,6 @@
 // komik
 // game
 
-use Game as GlobalGame;
-
 class Produk
 {
   public $judul,
